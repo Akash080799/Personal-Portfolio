@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Akash&#39;s Digi-Space</title>
+    <link>//localhost:1313/projects/</link>
+    <description>Recent content in Projects on Akash&#39;s Digi-Space</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="//localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Movie Recommendation System</title>
+      <link>//localhost:1313/projects/icons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/icons/</guid>
+      <description>An End-to-end fully functional Movie recommendation system for OTT streaming platforms, using techniques of Collaborative filtering.</description>
+    </item>
+    <item>
+      <title>Customer segmentation with RFM Score</title>
+      <link>//localhost:1313/projects/customer_segmentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/customer_segmentation/</guid>
+      <description>This project was aimed to segment customers into different classes based on their Recency, Frequency and Monetory scores.</description>
+    </item>
+    <item>
+      <title>Descriptive Analytics Demystified: Unveiling Statistical Patterns!</title>
+      <link>//localhost:1313/projects/statistical_analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/statistical_analysis/</guid>
+      <description>This project showcases the case study done to unveil the statistical aspects of the dataset using Python libraries and Statistics.</description>
+    </item>
+    <item>
+      <title>Navigating the Netflix Data Universe</title>
+      <link>//localhost:1313/projects/data_visualization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/data_visualization/</guid>
+      <description>The objective was to analyze the data and generate insights that could help Netflix in deciding which type of shows/movies to produce and how they can grow the business in different countries!</description>
+    </item>
+    <item>
+      <title>Bullseye Insights: Analyzing Retail market&#39;s Data with SQL</title>
+      <link>//localhost:1313/projects/data_analysis_sql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/data_analysis_sql/</guid>
+      <description>Solved this case study which primarily focused on deriving valuable insights from a Leading Retail Market&amp;rsquo;s data and provide recommendations/ feedback to improve the business.</description>
+    </item>
+    <item>
+      <title>TDM Based Wireless Overhead Tank Monitor</title>
+      <link>//localhost:1313/projects/overhead_water_tank/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/overhead_water_tank/</guid>
+      <description>Developed a hardware system by employing the Time Domain Multiplexing concept into the 433 MHz transceiver module, which is used as the wireless system to monitor the inflow of water in the overhead water tanks.</description>
+    </item>
+  </channel>
+</rss>

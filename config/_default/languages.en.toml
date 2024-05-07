@@ -1,0 +1,26 @@
+languageCode = "en"
+languageName = "English"
+languageDirection = "ltr"
+weight = 1
+
+title = "Akash's Digi-Space"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+[params]
+  dateFormat = "2 January 2006"
+  #mainSections = ["section1", "section2"]
+  description = "My awesome website"
+
+[params.author]
+name = "Akash Sivakumar"
+image = "img/author.jpg"
+headline = "Software Engineer at Cognizant Technology Solutions"
+bio = "Data Enthusiast | Software engineer"
+links = [
+{ email = "mailto:aksh.svkmr@gmail.com" },
+{ linkedin = "https://www.linkedin.com/in/aksivakumar/"},
+{ github = "https://github.com/Akash080799"},
+{ instagram = "https://www.instagram.com/i_ak__/" },
+{ telegram = "https://t.me/Ak_8799" }
+]
+

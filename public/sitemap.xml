@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+      <url>
+            <loc>//localhost:1313/projects/icons/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>//localhost:1313/projects/customer_segmentation/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>//localhost:1313/projects/statistical_analysis/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>//localhost:1313/projects/data_visualization/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>//localhost:1313/projects/data_analysis_sql/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>//localhost:1313/projects/overhead_water_tank/</loc>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>//localhost:1313/about/</loc>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>//localhost:1313/</loc>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>//localhost:1313/projects/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>//localhost:1313/publications/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>//localhost:1313/resume/</loc>
+          </url>
+    
+  
+    
+  
+    
+  
+</urlset>
