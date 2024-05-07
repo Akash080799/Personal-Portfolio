@@ -2,72 +2,72 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home page on Akash&#39;s Digi-Space</title>
-    <link>//localhost:1313/</link>
+    <link>http://localhost:1313/Personal-Portfolio/</link>
     <description>Recent content in Home page on Akash&#39;s Digi-Space</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/Personal-Portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Movie Recommendation System</title>
-      <link>//localhost:1313/projects/icons/</link>
+      <link>http://localhost:1313/Personal-Portfolio/projects/icons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/icons/</guid>
+      <guid>http://localhost:1313/Personal-Portfolio/projects/icons/</guid>
       <description>An End-to-end fully functional Movie recommendation system for OTT streaming platforms, using techniques of Collaborative filtering.</description>
     </item>
     <item>
       <title>Customer segmentation with RFM Score</title>
-      <link>//localhost:1313/projects/customer_segmentation/</link>
+      <link>http://localhost:1313/Personal-Portfolio/projects/customer_segmentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/customer_segmentation/</guid>
+      <guid>http://localhost:1313/Personal-Portfolio/projects/customer_segmentation/</guid>
       <description>This project was aimed to segment customers into different classes based on their Recency, Frequency and Monetory scores.</description>
     </item>
     <item>
       <title>Descriptive Analytics Demystified: Unveiling Statistical Patterns!</title>
-      <link>//localhost:1313/projects/statistical_analysis/</link>
+      <link>http://localhost:1313/Personal-Portfolio/projects/statistical_analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/statistical_analysis/</guid>
+      <guid>http://localhost:1313/Personal-Portfolio/projects/statistical_analysis/</guid>
       <description>This project showcases the case study done to unveil the statistical aspects of the dataset using Python libraries and Statistics.</description>
     </item>
     <item>
       <title>Navigating the Netflix Data Universe</title>
-      <link>//localhost:1313/projects/data_visualization/</link>
+      <link>http://localhost:1313/Personal-Portfolio/projects/data_visualization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/data_visualization/</guid>
+      <guid>http://localhost:1313/Personal-Portfolio/projects/data_visualization/</guid>
       <description>The objective was to analyze the data and generate insights that could help Netflix in deciding which type of shows/movies to produce and how they can grow the business in different countries!</description>
     </item>
     <item>
       <title>Bullseye Insights: Analyzing Retail market&#39;s Data with SQL</title>
-      <link>//localhost:1313/projects/data_analysis_sql/</link>
+      <link>http://localhost:1313/Personal-Portfolio/projects/data_analysis_sql/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/data_analysis_sql/</guid>
+      <guid>http://localhost:1313/Personal-Portfolio/projects/data_analysis_sql/</guid>
       <description>Solved this case study which primarily focused on deriving valuable insights from a Leading Retail Market&amp;rsquo;s data and provide recommendations/ feedback to improve the business.</description>
     </item>
     <item>
       <title>TDM Based Wireless Overhead Tank Monitor</title>
-      <link>//localhost:1313/projects/overhead_water_tank/</link>
+      <link>http://localhost:1313/Personal-Portfolio/projects/overhead_water_tank/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/overhead_water_tank/</guid>
+      <guid>http://localhost:1313/Personal-Portfolio/projects/overhead_water_tank/</guid>
       <description>Developed a hardware system by employing the Time Domain Multiplexing concept into the 433 MHz transceiver module, which is used as the wireless system to monitor the inflow of water in the overhead water tanks.</description>
     </item>
     <item>
       <title>About</title>
-      <link>//localhost:1313/about/</link>
+      <link>http://localhost:1313/Personal-Portfolio/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/about/</guid>
+      <guid>http://localhost:1313/Personal-Portfolio/about/</guid>
       <description>This page will show who am I and what I do</description>
     </item>
     <item>
       <title>Publications</title>
-      <link>//localhost:1313/publications/</link>
+      <link>http://localhost:1313/Personal-Portfolio/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publications/</guid>
+      <guid>http://localhost:1313/Personal-Portfolio/publications/</guid>
       <description>Saline Solution Based Miniaturized Low-Frequency Dipole for UAV based River Monitoring Systems #&#xD;Developed a novel minimization technique to incorporate saline solution as a core material with low&#xD;frequency wire antenna&#39;s to efficiently reduce their overall electrical length.</description>
     </item>
     <item>
       <title>Resume</title>
-      <link>//localhost:1313/resume/</link>
+      <link>http://localhost:1313/Personal-Portfolio/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/resume/</guid>
+      <guid>http://localhost:1313/Personal-Portfolio/resume/</guid>
       <description>Previous&#xD;Next &amp;nbsp; &amp;nbsp;&#xD;/ [pdf]&#xD;View the PDF file here.</description>
     </item>
   </channel>

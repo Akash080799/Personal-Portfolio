@@ -4,55 +4,45 @@
   
     
       <url>
-            <loc>//localhost:1313/projects/icons/</loc>
+            <loc>http://localhost:1313/Personal-Portfolio/projects/icons/</loc>
           </url>
     
   
     
       <url>
-            <loc>//localhost:1313/projects/customer_segmentation/</loc>
+            <loc>http://localhost:1313/Personal-Portfolio/projects/customer_segmentation/</loc>
           </url>
     
   
     
       <url>
-            <loc>//localhost:1313/projects/statistical_analysis/</loc>
+            <loc>http://localhost:1313/Personal-Portfolio/projects/statistical_analysis/</loc>
           </url>
     
   
     
       <url>
-            <loc>//localhost:1313/projects/data_visualization/</loc>
+            <loc>http://localhost:1313/Personal-Portfolio/projects/data_visualization/</loc>
           </url>
     
   
     
       <url>
-            <loc>//localhost:1313/projects/data_analysis_sql/</loc>
+            <loc>http://localhost:1313/Personal-Portfolio/projects/data_analysis_sql/</loc>
           </url>
     
   
     
       <url>
-            <loc>//localhost:1313/projects/overhead_water_tank/</loc>
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>//localhost:1313/about/</loc>
+            <loc>http://localhost:1313/Personal-Portfolio/projects/overhead_water_tank/</loc>
           </url>
     
   
     
   
     
-  
-    
       <url>
-            <loc>//localhost:1313/</loc>
+            <loc>http://localhost:1313/Personal-Portfolio/about/</loc>
           </url>
     
   
@@ -62,19 +52,29 @@
   
     
       <url>
-            <loc>//localhost:1313/projects/</loc>
+            <loc>http://localhost:1313/Personal-Portfolio/</loc>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/Personal-Portfolio/projects/</loc>
           </url>
     
   
     
       <url>
-            <loc>//localhost:1313/publications/</loc>
+            <loc>http://localhost:1313/Personal-Portfolio/publications/</loc>
           </url>
     
   
     
       <url>
-            <loc>//localhost:1313/resume/</loc>
+            <loc>http://localhost:1313/Personal-Portfolio/resume/</loc>
           </url>
     
   
