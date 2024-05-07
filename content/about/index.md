@@ -5,7 +5,7 @@ summary: "This page will show who am I and what I do"
 tags: ["welcome", "new", "about", "first"]
 ---
 {{<lead>}}
-This is my About Page.
+This is my About Page. Check!
 {{</lead>}}
 
 <div align="justify">
