@@ -5,7 +5,7 @@
 theme = ["hugo-embed-pdf-shortcode", "congo"]
 enableInlineShortcodes = true
 
-baseURL = "/"
+baseURL = ""
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
