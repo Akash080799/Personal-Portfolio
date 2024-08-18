@@ -1,6 +1,5 @@
 ---
 title: "Movie Recommendation System"
-slug: "icons"
 description: "End to end Movie recommendation system using techniques like Item-based collaborative filtering and User-based collaborative filtering."
 weight: 5
 
