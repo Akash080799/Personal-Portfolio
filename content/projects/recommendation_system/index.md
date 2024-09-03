@@ -8,8 +8,8 @@ weight: 5
 An End-to-end fully functional Movie recommendation system for OTT streaming platforms, using techniques of Collaborative filtering. {{<badge>}}New !!!{{</badge>}}
 
 {{< video "movie_recommendation_system.mp4" "movie_recommendation" >}}
-<br/>
-#### Pega Implementation:
+<br>
+### Pega Implementation:
 <br/>
 {{< video "Pega_implementation.mp4" "movie_recommendation_pega" >}}
 <br>
