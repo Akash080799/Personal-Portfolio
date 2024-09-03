@@ -21,9 +21,9 @@ Link: [Movie Recommendation System](https://recommendationsystem-ak.streamlit.ap
 
 ### Pega Implementation:
 
-<div align="justify">Also Developed a Pega platform application to deliver movie suggestions by transforming the built recommender system into a Web API.</div>
+Also Developed a Pega platform application to deliver movie suggestions by transforming the built recommender system into a Web API.
 
-{{< video "Pega_implementation.mp4" "movie_recommendation_pega" >}}
+{{< video "Pega_implementation.mp4" "pega_recommendation" >}}
 
 
 {{< alert "github" >}}
