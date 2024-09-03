@@ -8,9 +8,9 @@ weight: 5
 An End-to-end fully functional Movie recommendation system for OTT streaming platforms, using techniques of Collaborative filtering. {{<badge>}}New !!!{{</badge>}}
 
 {{< video "movie_recommendation_system.mp4" "movie_recommendation" >}}
-<br>
+
 ### Pega Implementation:
-<br/>
+
 {{< video "Pega_implementation.mp4" "movie_recommendation_pega" >}}
 <br>
 <div align="justify">In today's digital age, personalized content recommendations play a crucial role in enhancing user experience on Over-the-Top (OTT) and Digital E-commerce platforms. Leveraging advanced data science techniques and cloud technologies, I recently embarked on a project to build a recommendation system for an OTT streaming platform, and I'm excited to share my journey below!.</div>
