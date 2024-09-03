@@ -7,9 +7,7 @@ weight: 5
 
 An End-to-end fully functional Movie recommendation system for OTT streaming platforms, using techniques of Collaborative filtering. {{<badge>}}New !!!{{</badge>}}
 
-<div>
 {{< video "movie_recommendation_system.mp4" "movie_recommendation" >}}
-</div>
 
 <div align="justify">In today's digital age, personalized content recommendations play a crucial role in enhancing user experience on Over-the-Top (OTT) and Digital E-commerce platforms. Leveraging advanced data science techniques and cloud technologies, I recently embarked on a project to build a recommendation system for an OTT streaming platform, and I'm excited to share my journey below!.</div>
 <br>
@@ -18,19 +16,14 @@ An End-to-end fully functional Movie recommendation system for OTT streaming pla
 <div align="justify">The Other technique that was used to generate recommendations was User-based collaborative filtering also known as User-User similarity. Items recommended using this technique are those which are preferred by the users that are similar to the target user. On the sparse User-Item Interaction matrix, techniques like Matrix Factorization was applied to derive 2 lower dimensional matrices representing users and items with unknown features. These unknown features were later leveraged to provide the recommendations to the target user.</div>
 <br>
 <div align="justify">An interactive Streamlit application was built on top of these algorithms, which was later dockerized in a container and hosted in Amazon ECS, enabling the application to be easily accessed by users. It is also hosted in Streamlit Community Cloud and can be accessed using the link below!.</div>
-<br>
+
 Link: [Movie Recommendation System](https://recommendationsystem-ak.streamlit.app/)
-<br>
 
 ### Pega Implementation:
 
 <div align="justify">Also Developed a Pega platform application to deliver movie suggestions by transforming the built recommender system into a Web API.</div>
-<br>
-<div>
-{{< video "Pega_implementation.mp4" "movie_recommendation_pega" >}}
-</div>
-<br>
 
+{{< video "Pega_implementation.mp4" "movie_recommendation_pega" >}}
 
 
 {{< alert "github" >}}
