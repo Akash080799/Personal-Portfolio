@@ -7,12 +7,16 @@ weight: 5
 
 An End-to-end fully functional Movie recommendation system for OTT streaming platforms, using techniques of Collaborative filtering. {{<badge>}}New !!!{{</badge>}}
 
+<div>
 {{< video "movie_recommendation_system.mp4" "movie_recommendation" >}}
+</div>
 
 ### Pega Implementation:
 
+<div>
 {{< video "Pega_implementation.mp4" "movie_recommendation_pega" >}}
-<br>
+</div>
+
 <div align="justify">In today's digital age, personalized content recommendations play a crucial role in enhancing user experience on Over-the-Top (OTT) and Digital E-commerce platforms. Leveraging advanced data science techniques and cloud technologies, I recently embarked on a project to build a recommendation system for an OTT streaming platform, and I'm excited to share my journey below!.</div>
 <br>
 <div align='justify'>The development process began with data collection and preprocessing, followed by implementing Item-based and User-based collaborative filtering algorithms using Python and libraries like pandas and scikit-learn. Item-based collaborative filtering also known as Item-Item similarity is a technique where the items are suggested that are similar to the items that the users had interacted with in the past. The similarity scores between the items were calculated by using metrics like Pearson-correlation and Cosine-similarity.</div>
