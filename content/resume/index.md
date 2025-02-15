@@ -4,7 +4,7 @@ cascade:
     showAuthor: false
 ---
 
-<script src= '/js/pdf-js/build/pdf.js'></script>{{< embed-pdf url="Akash_Resume_2024.pdf" >}}
+<script src= '/js/pdf-js/build/pdf.js'></script>{{< embed-pdf url="Akash_Resume_2025.pdf" >}}
 
 
 ---
