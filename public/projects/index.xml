@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Akash&#39;s Digi-Space</title>
+    <title>Projects on Akash Sivakumar</title>
     <link>http://localhost:1313/Personal-Portfolio/projects/</link>
-    <description>Recent content in Projects on Akash&#39;s Digi-Space</description>
+    <description>Recent content in Projects on Akash Sivakumar</description>
     <generator>Hugo</generator>
     <language>en</language>
     <atom:link href="http://localhost:1313/Personal-Portfolio/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Movie Recommendation System</title>
-      <link>http://localhost:1313/Personal-Portfolio/projects/icons/</link>
+      <link>http://localhost:1313/Personal-Portfolio/projects/recommendation_system/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Personal-Portfolio/projects/icons/</guid>
+      <guid>http://localhost:1313/Personal-Portfolio/projects/recommendation_system/</guid>
       <description>An End-to-end fully functional Movie recommendation system for OTT streaming platforms, using techniques of Collaborative filtering.</description>
     </item>
     <item>
